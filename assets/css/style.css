@@ -1,0 +1,20 @@
+#pierre{
+  height: 80px;
+  width: 80px;
+  border: medium dashed grey;
+  margin-bottom: 10px;
+}
+#feuille{
+  height: 80px;
+  width: 80px;
+  border: medium dashed grey;
+  margin-bottom: 10px;
+}
+#ciseaux{
+  height: 80px;
+  width: 80px;
+  border: medium dashed grey;
+}
+#res{
+  font-size: 30px;
+}
